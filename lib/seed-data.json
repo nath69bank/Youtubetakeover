@@ -1,0 +1,1358 @@
+{
+ "ideas": [
+  {
+   "rank": 1,
+   "starred": true,
+   "title": "AI for Small Business: Where to Actually Start (UK)",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 2,
+   "starred": true,
+   "title": "Why Your Business Doesn't Show Up on Google Maps (and the Fix)",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 3,
+   "starred": true,
+   "title": "I Rebuilt a Local Business Website With AI: Before & After",
+   "pillar": 2,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 4,
+   "starred": true,
+   "title": "Your Staff Are Pasting Company Data Into ChatGPT. Here's What to Do",
+   "pillar": 5,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 5,
+   "starred": true,
+   "title": "10 ChatGPT Prompts Every UK Business Owner Should Use",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 6,
+   "starred": true,
+   "title": "How to Get More Google Reviews (Without Being Awkward)",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 7,
+   "starred": true,
+   "title": "Is Your Website Losing You Customers? 7-Point Check",
+   "pillar": 2,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 8,
+   "starred": true,
+   "title": "How Much Does a Small Business Website Cost in the UK in 2026?",
+   "pillar": 2,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 9,
+   "starred": true,
+   "title": "Google Business Profile: Complete Setup Guide for UK Businesses",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 10,
+   "starred": true,
+   "title": "How to Show Up in ChatGPT and Google AI Answers",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 11,
+   "starred": true,
+   "title": "The AI Readiness Checklist: 8 Questions Before You Spend a Penny",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 12,
+   "starred": true,
+   "title": "5 Admin Jobs You Should Automate This Month",
+   "pillar": 4,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 13,
+   "starred": true,
+   "title": "Fix It Live: Local SEO Makeover for a Wirral Business",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 14,
+   "starred": true,
+   "title": "Write an AI Policy for Your Business in 20 Minutes (Free Template)",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 15,
+   "starred": false,
+   "title": "Build or Buy AI? The 3 Real Options and What They Cost",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 16,
+   "starred": false,
+   "title": "How to Choose an AI Consultant (and Red Flags to Avoid)",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 17,
+   "starred": false,
+   "title": "I Gave ChatGPT My Inbox for a Week: What Happened",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 18,
+   "starred": false,
+   "title": "Build a Custom AI Assistant Trained on Your Business",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 19,
+   "starred": false,
+   "title": "SEO for Tradespeople: Get Found in Your Area",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 20,
+   "starred": false,
+   "title": "Your Homepage in 5 Seconds: What Customers Actually See",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 21,
+   "starred": false,
+   "title": "ChatGPT vs Claude vs Gemini vs Copilot for Business (UK test)",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 22,
+   "starred": false,
+   "title": "Automate Quotes and Follow-Ups (So Leads Don't Go Cold)",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 23,
+   "starred": false,
+   "title": "AI Phone Answering for Small Businesses: Worth It?",
+   "pillar": 4,
+   "growth": "H",
+   "lead": "H"
+  },
+  {
+   "rank": 24,
+   "starred": false,
+   "title": "How to Rank in [Town]: Local SEO Walkthrough (Liverpool example)",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 25,
+   "starred": false,
+   "title": "Website Teardown: 3 Real Local Sites, What I'd Change",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 26,
+   "starred": false,
+   "title": "Is Microsoft Copilot Worth It for Your Business?",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 27,
+   "starred": false,
+   "title": "UK GDPR and AI: What Small Businesses Actually Need to Know",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 28,
+   "starred": false,
+   "title": "How We Built an AI Coach Into a Web App (Order Block case study)",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 29,
+   "starred": false,
+   "title": "The Website Mistake That Kills 50% of Enquiries: Mobile",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 30,
+   "starred": false,
+   "title": "Google Business Profile Posts: Do They Help Rankings?",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 31,
+   "starred": false,
+   "title": "Use AI to Write Your Website Copy (Without Sounding Like a Robot)",
+   "pillar": 2,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 32,
+   "starred": false,
+   "title": "Turn Customer Emails Into an FAQ Page With AI",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 33,
+   "starred": false,
+   "title": "AI for Accountants & Bookkeepers: 6 Real Uses",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 34,
+   "starred": false,
+   "title": "AI for Clinics & Healthcare Practices (Safely)",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 35,
+   "starred": false,
+   "title": "AI for Restaurants, Pubs & Hotels",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 36,
+   "starred": false,
+   "title": "AI for Estate Agents: Listings, Valuations, Follow-ups",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 37,
+   "starred": false,
+   "title": "AI for Solicitors & Professional Services",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 38,
+   "starred": false,
+   "title": "AI for Trades: Quotes, Scheduling & Reviews",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 39,
+   "starred": false,
+   "title": "AI for Retail & Independent Shops",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 40,
+   "starred": false,
+   "title": "AI for Gyms & Membership Organisations",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 41,
+   "starred": false,
+   "title": "Wix vs Squarespace vs WordPress vs Custom (UK SMEs)",
+   "pillar": 2,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 42,
+   "starred": false,
+   "title": "Why Your Website Is Slow and How It Costs You Money",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 43,
+   "starred": false,
+   "title": "How to Write a Google Business Profile Description That Ranks",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 44,
+   "starred": false,
+   "title": "Reply to Every Review With AI (Templates Inside)",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 45,
+   "starred": false,
+   "title": "Zapier vs Make vs Power Automate for Small Business",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 46,
+   "starred": false,
+   "title": "Automate Your Booking System End to End",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 47,
+   "starred": false,
+   "title": "Stop Copy-Pasting Between Systems: Integration Basics",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 48,
+   "starred": false,
+   "title": "The Real Cost of NOT Using AI in Your Business",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 49,
+   "starred": false,
+   "title": "3 AI Projects That Failed (and What They Taught Us)",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 50,
+   "starred": false,
+   "title": "When AI Is NOT the Answer: 5 Honest Examples",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 51,
+   "starred": false,
+   "title": "How to Train Your Team on AI (Without a Boring Course)",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 52,
+   "starred": false,
+   "title": "Local Landing Pages: Rank in 5 Towns With One Business",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 53,
+   "starred": false,
+   "title": "Schema Markup Explained for Business Owners",
+   "pillar": 3,
+   "growth": "L",
+   "lead": "M"
+  },
+  {
+   "rank": 54,
+   "starred": false,
+   "title": "Get Your Business Cited by AI Search: llms.txt and More",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 55,
+   "starred": false,
+   "title": "Google Search Console in 10 Minutes for Owners",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 56,
+   "starred": false,
+   "title": "How to Read Your Website Analytics (GA4 made simple)",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 57,
+   "starred": false,
+   "title": "Website Contact Forms That Actually Get Filled In",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 58,
+   "starred": false,
+   "title": "Add an AI Chat Assistant to Your Website: Good Idea?",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 59,
+   "starred": false,
+   "title": "AI-Written Blog Posts: Will Google Penalise You?",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 60,
+   "starred": false,
+   "title": "Build a Simple Content Plan With AI in 30 Minutes",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 61,
+   "starred": false,
+   "title": "Meeting Notes on Autopilot: AI Transcription Tools Compared",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 62,
+   "starred": false,
+   "title": "Automate Invoice Chasing (Politely)",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 63,
+   "starred": false,
+   "title": "AI Image Tools for Business Marketing: What's Safe to Use",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 64,
+   "starred": false,
+   "title": "Use AI to Analyse Your Customer Reviews",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 65,
+   "starred": false,
+   "title": "AI for Recruitment: Job Ads, Screening and the Risks",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 66,
+   "starred": false,
+   "title": "Write a Proposal in 15 Minutes With AI",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 67,
+   "starred": false,
+   "title": "AI Spreadsheet Tricks for Owners Who Hate Excel",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 68,
+   "starred": false,
+   "title": "We Audited 10 Wirral Business Websites: Here's What We Found",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 69,
+   "starred": false,
+   "title": "We Searched \"Plumber Near Me\" in 5 Merseyside Towns",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 70,
+   "starred": false,
+   "title": "How Long Does SEO Take? Honest Answer",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 71,
+   "starred": false,
+   "title": "Should You Pay for SEO? How to Spot a Bad Agency",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 72,
+   "starred": false,
+   "title": "The 1-Page Website Strategy for New Businesses",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 73,
+   "starred": false,
+   "title": "Domain, Hosting, Email: What a Business Actually Needs",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 74,
+   "starred": false,
+   "title": "Is Your Website Breaking the Law? Cookies, Privacy & Accessibility",
+   "pillar": 2,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 75,
+   "starred": false,
+   "title": "Website Accessibility for UK Businesses (Quick Wins)",
+   "pillar": 2,
+   "growth": "L",
+   "lead": "M"
+  },
+  {
+   "rank": 76,
+   "starred": false,
+   "title": "Automate Social Media Without Sounding Fake",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 77,
+   "starred": false,
+   "title": "WhatsApp Business Automation for UK Businesses",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 78,
+   "starred": false,
+   "title": "AI Customer Service: Where It Helps, Where It Annoys",
+   "pillar": 4,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 79,
+   "starred": false,
+   "title": "The 30-Day AI Trial: How to Test AI Without Risk",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 80,
+   "starred": false,
+   "title": "How to Measure if AI Is Actually Saving Time",
+   "pillar": 5,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 81,
+   "starred": false,
+   "title": "Our 5-Stage AI Process (Understand → Improve)",
+   "pillar": 5,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 82,
+   "starred": false,
+   "title": "What a Fixed-Price AI Project Looks Like",
+   "pillar": 5,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 83,
+   "starred": false,
+   "title": "Client Story: [Sector] Business Saves X Hours a Week",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 84,
+   "starred": false,
+   "title": "AI News This Month: What Matters for UK Businesses",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 85,
+   "starred": false,
+   "title": "Should You Hire an AI Person or Use a Consultant?",
+   "pillar": 5,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 86,
+   "starred": false,
+   "title": "Google Ads vs SEO for Local Businesses",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 87,
+   "starred": false,
+   "title": "Rank for \"Near Me\" Searches",
+   "pillar": 3,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 88,
+   "starred": false,
+   "title": "Turn One Video Into 10 Pieces of Content With AI",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "L"
+  },
+  {
+   "rank": 89,
+   "starred": false,
+   "title": "Build a Customer Knowledge Base Your Team Will Use",
+   "pillar": 1,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 90,
+   "starred": false,
+   "title": "AI for Charities and Non-Profits",
+   "pillar": 1,
+   "growth": "L",
+   "lead": "M"
+  },
+  {
+   "rank": 91,
+   "starred": false,
+   "title": "Bad AI Advice on YouTube: Reacting to Hype",
+   "pillar": 5,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 92,
+   "starred": false,
+   "title": "Free AI Tools vs Paid: What's Worth the Money",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  },
+  {
+   "rank": 93,
+   "starred": false,
+   "title": "Automate Your Onboarding for New Customers",
+   "pillar": 4,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 94,
+   "starred": false,
+   "title": "Automate Staff Rotas and Holiday Requests",
+   "pillar": 4,
+   "growth": "L",
+   "lead": "M"
+  },
+  {
+   "rank": 95,
+   "starred": false,
+   "title": "Website Speed Test Live: Fixing a Slow Site",
+   "pillar": 2,
+   "growth": "L",
+   "lead": "M"
+  },
+  {
+   "rank": 96,
+   "starred": false,
+   "title": "AI Agents Explained for Business Owners (no jargon)",
+   "pillar": 1,
+   "growth": "H",
+   "lead": "M"
+  },
+  {
+   "rank": 97,
+   "starred": false,
+   "title": "Why Your Competitors Rank Above You (Competitor Check)",
+   "pillar": 3,
+   "growth": "M",
+   "lead": "H"
+  },
+  {
+   "rank": 98,
+   "starred": false,
+   "title": "12 Months of AI in a Small Business: What Stuck",
+   "pillar": 5,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 99,
+   "starred": false,
+   "title": "Live Q&A: Ask an AI Consultant Anything",
+   "pillar": 1,
+   "growth": "L",
+   "lead": "H"
+  },
+  {
+   "rank": 100,
+   "starred": false,
+   "title": "AI Myths UK Business Owners Still Believe",
+   "pillar": 1,
+   "growth": "M",
+   "lead": "M"
+  }
+ ],
+ "concepts": [
+  {
+   "number": 1,
+   "title": "AI for Small Business: Where to Actually Start (UK)",
+   "title_options": "AI for Small Business: Where to Actually Start (UK)\nThe First AI Project Every Small Business Should Do\nStop Buying AI Tools. Do This First",
+   "thumbnail_ideas": "\"START HERE\" + one-step staircase graphic, you pointing at step 1",
+   "hook": "\"Most small businesses start with AI the wrong way. They buy a tool, nobody uses it, and three months later it's forgotten. In the next ten minutes I'll show you the four-step way we start with every client, and the one question to ask before you spend a penny.\"",
+   "why_click": "Every owner feels behind on AI and wants a safe first step.",
+   "cta": "Free AI Readiness Checklist",
+   "pillar": 1
+  },
+  {
+   "number": 2,
+   "title": "Why Your Business Doesn't Show Up on Google Maps (and the Fix)",
+   "title_options": "Why Your Business Doesn't Show Up on Google Maps (and the Fix)\nInvisible on Google Maps? Check These 6 Things\nYour Competitor Is on Google Maps and You're Not. Here's Why",
+   "thumbnail_ideas": "\"NOT ON MAPS?\" + map with one missing pin",
+   "hook": "\"If someone in your town searches for what you do right now, there's a good chance they'll find your competitor and not you. It's usually not your fault. It's six settings most people never touch. Let's fix them.\"",
+   "why_click": "Direct, local, painful problem with a clear fix.",
+   "cta": "Free Google Profile check (WhatsApp)",
+   "pillar": 3
+  },
+  {
+   "number": 3,
+   "title": "I Rebuilt a Local Business Website With AI: Before & After",
+   "title_options": "I Rebuilt a Local Business Website With AI: Before & After\nOld Website vs AI Rebuild: Which Gets More Enquiries?\nWatch Me Fix a Real Website With AI",
+   "thumbnail_ideas": "Split screen: dated site / new site, \"BEFORE → AFTER\"",
+   "hook": "\"This is a real local business website. It's not terrible, but it isn't bringing in enquiries. I'm going to rebuild it using AI where it helps, and my own hands where it doesn't, and show you exactly what changed.\"",
+   "why_click": "Transformation content is irresistible; real proof.",
+   "cta": "Free website check",
+   "pillar": 2
+  },
+  {
+   "number": 4,
+   "title": "Your Staff Are Pasting Company Data Into ChatGPT. Here's What to Do",
+   "title_options": "Your Staff Are Pasting Company Data Into ChatGPT. Here's What to Do\nIs Your Team Leaking Data Into AI? (UK GDPR)\nDon't Ban ChatGPT. Do This Instead",
+   "thumbnail_ideas": "\"THEY'RE DOING IT\" + laptop with ChatGPT open",
+   "hook": "\"If you've got more than three staff, someone is already using ChatGPT at work. Probably with customer data. Banning it doesn't work. Here's what actually reduces the risk, and a free policy you can use today.\"",
+   "why_click": "Fear + relief: there's a simple answer.",
+   "cta": "Free AI Policy Template",
+   "pillar": 5
+  },
+  {
+   "number": 5,
+   "title": "10 ChatGPT Prompts Every UK Business Owner Should Use",
+   "title_options": "10 ChatGPT Prompts Every UK Business Owner Should Use\nCopy These 10 AI Prompts to Save Hours Every Week\nThe Only 10 AI Prompts a Small Business Needs",
+   "thumbnail_ideas": "\"COPY THESE 10\" + prompt card stack",
+   "hook": "\"These are the ten prompts we actually give clients on day one. Not 'write me a poem': quotes, complaint replies, job ads, policies. I'll show each one working live, and you can download all ten free.\"",
+   "why_click": "Instantly useful, downloadable.",
+   "cta": "Download the 10 prompts (lead magnet)",
+   "pillar": 1
+  },
+  {
+   "number": 6,
+   "title": "How to Get More Google Reviews (Without Being Awkward)",
+   "title_options": "How to Get More Google Reviews (Without Being Awkward)\nWe Went From 12 to 60 Google Reviews: The System *(use only with real numbers)*\nThe Easiest Way to Get 5-Star Reviews",
+   "thumbnail_ideas": "\"★★★★★ ON AUTOPILOT\"",
+   "hook": "\"Reviews are one of the biggest reasons a business ranks on Google Maps, and most businesses only ask when they remember. I'll show you a simple system that asks every happy customer automatically, legally and without feeling cringey.\"",
+   "why_click": "Every local business wants reviews.",
+   "cta": "Review request templates",
+   "pillar": 3
+  },
+  {
+   "number": 7,
+   "title": "Is Your Website Losing You Customers? 7-Point Check",
+   "title_options": "Is Your Website Losing You Customers? 7-Point Check\n7 Website Mistakes That Cost Small Businesses Enquiries\nCheck Your Website in 10 Minutes",
+   "thumbnail_ideas": "\"LOSING CUSTOMERS?\" + leaky bucket over a website",
+   "hook": "\"Grab your phone and open your website. Go on. In the next ten minutes we'll run seven checks. If you fail three or more, your website is quietly sending customers to your competitors.\"",
+   "why_click": "Interactive, self-diagnosis.",
+   "cta": "Free Website Check scorecard",
+   "pillar": 2
+  },
+  {
+   "number": 8,
+   "title": "How Much Does a Small Business Website Cost in the UK in 2026?",
+   "title_options": "How Much Does a Small Business Website Cost in the UK in 2026?\n£500 vs £5,000 Website: What's the Difference?\nWebsite Prices Explained (Honestly)",
+   "thumbnail_ideas": "\"£500 vs £5,000\"",
+   "hook": "\"You've had three website quotes: £500, £2,000 and £8,000. They can't all be right. Here's what actually changes the price, what you need, and where you're wasting money.\"",
+   "why_click": "Pricing transparency is rare and searched heavily.",
+   "cta": "Fixed-price website conversation",
+   "pillar": 2
+  },
+  {
+   "number": 9,
+   "title": "Google Business Profile: Complete Setup Guide for UK Businesses",
+   "title_options": "Google Business Profile: Complete Setup Guide for UK Businesses\nSet Up Google Business Profile the Right Way\nGoogle Business Profile Checklist (2026)",
+   "thumbnail_ideas": "\"DO THIS FIRST\" + GBP screenshot",
+   "hook": "\"Your Google Business Profile is probably the most important page you own, more than your website for local searches. We'll go through every section in order, and I'll point out the three most people get wrong.\"",
+   "why_click": "Evergreen, high-search how-to.",
+   "cta": "Free GBP checklist",
+   "pillar": 3
+  },
+  {
+   "number": 10,
+   "title": "How to Show Up in ChatGPT and Google AI Answers",
+   "title_options": "How to Show Up in ChatGPT and Google AI Answers\nIs ChatGPT Recommending Your Competitors?\nSEO Is Changing: Get Found by AI",
+   "thumbnail_ideas": "\"DOES AI KNOW YOU?\" + chat bubble",
+   "hook": "\"I asked ChatGPT for the best [service] in Liverpool. It gave me three names. None of them were the businesses that rank first on Google. Here's how AI picks who to recommend, and what you can do about it.\"",
+   "why_click": "New, slightly scary, practical.",
+   "cta": "AI visibility check",
+   "pillar": 3
+  },
+  {
+   "number": 11,
+   "title": "8 Questions to Ask Before Spending a Penny on AI",
+   "title_options": "8 Questions to Ask Before Spending a Penny on AI\nIs Your Business Actually Ready for AI?\nThe AI Readiness Checklist",
+   "thumbnail_ideas": "\"READY FOR AI?\" + checklist half ticked",
+   "hook": "\"Most failed AI projects fail before they start: messy data, no owner, wrong problem. Here are eight questions we ask every client first. Score yourself as we go.\"",
+   "why_click": null,
+   "cta": "AI Readiness Checklist download",
+   "pillar": 5
+  },
+  {
+   "number": 12,
+   "title": "5 Admin Jobs You Should Automate This Month",
+   "title_options": "5 Admin Jobs You Should Automate This Month\nStop Doing These 5 Jobs Manually\nAutomate Your Admin (No Coding)",
+   "thumbnail_ideas": "\"STOP DOING THIS\" + pile of paper",
+   "hook": "\"If you or your team do any of these five jobs by hand every week, you're paying someone to copy and paste. Each one can be automated, most with tools you already pay for.\"",
+   "why_click": null,
+   "cta": "Free automation audit",
+   "pillar": 4
+  },
+  {
+   "number": 13,
+   "title": "Fixing a Wirral Business's Google Ranking (Live)",
+   "title_options": "Fixing a Wirral Business's Google Ranking (Live)\nLocal SEO Makeover: Real Business, Real Fixes\nI Fixed This Business's Google Profile in 30 Minutes",
+   "thumbnail_ideas": "Business owner + you, \"FIXED LIVE\"",
+   "hook": "\"This is [Name] from [Business] in [Town]. When you search for what they do, they're on page two. Today we're fixing it, live, and I'll show you every change so you can do the same.\"",
+   "why_click": null,
+   "cta": "Apply to be featured / free check",
+   "pillar": 3
+  },
+  {
+   "number": 14,
+   "title": "Write an AI Policy for Your Business in 20 Minutes (Free Template)",
+   "title_options": "Write an AI Policy for Your Business in 20 Minutes (Free Template)\nYour Business Needs an AI Policy. Here's a Simple One\nAI Policy for UK SMEs, Explained",
+   "thumbnail_ideas": "\"1-PAGE AI POLICY\"",
+   "hook": "\"You don't need a 30-page AI policy. You need one page your staff will actually read. We'll write it together in 20 minutes, and you can download our template free.\"",
+   "why_click": null,
+   "cta": "AI Policy Template",
+   "pillar": 5
+  },
+  {
+   "number": 15,
+   "title": "Build or Buy AI? The 3 Real Options and What They Cost",
+   "title_options": "Build or Buy AI? The 3 Real Options and What They Cost\nOff-the-Shelf AI vs Custom AI\nDon't Build AI Until You Watch This",
+   "thumbnail_ideas": "\"BUILD or BUY?\"",
+   "hook": "\"Every week someone asks me to build them a custom AI. About half the time, I talk them out of it. Here's how to tell which option is right, and what each really costs to own.\"",
+   "why_click": null,
+   "cta": "Free conversation",
+   "pillar": 5
+  },
+  {
+   "number": 16,
+   "title": "How to Choose an AI Consultant (Red Flags to Avoid)",
+   "title_options": "How to Choose an AI Consultant (Red Flags to Avoid)\nDon't Hire an AI Agency Until You Ask These 7 Questions\nAI Consultant or Cowboy? How to Tell",
+   "thumbnail_ideas": "\"RED FLAGS 🚩\"",
+   "hook": "\"AI consultancy is the new Wild West. Anyone can call themselves an expert. Here are seven questions to ask, including one that we'd fail if we weren't careful.\"",
+   "why_click": null,
+   "cta": "Free first conversation",
+   "pillar": 5
+  },
+  {
+   "number": 17,
+   "title": "I Let AI Run My Business Inbox for a Week",
+   "title_options": "I Let AI Run My Business Inbox for a Week\nCan AI Handle Customer Emails? I Tested It\nAI Email Assistant: 7-Day Honest Test",
+   "thumbnail_ideas": "\"7 DAYS\" + inbox with robot",
+   "hook": "\"For seven days, AI drafted every email reply for a real business inbox. Some replies were brilliant. One would've lost us a customer. Here's exactly what happened.\"",
+   "why_click": null,
+   "cta": "Email workflow setup",
+   "pillar": 1
+  },
+  {
+   "number": 18,
+   "title": "Build an AI Assistant That Knows Your Business",
+   "title_options": "Build an AI Assistant That Knows Your Business\nTrain ChatGPT on Your Own Documents (Safely)\nYour Own Company AI in an Afternoon",
+   "thumbnail_ideas": "\"TRAINED ON YOU\"",
+   "hook": "\"Imagine a new starter asking a question and getting the answer from your own policies and price lists instantly, not from the internet. Here's how to build that, and where it goes wrong.\"",
+   "why_click": null,
+   "cta": "Implementation conversation",
+   "pillar": 1
+  },
+  {
+   "number": 19,
+   "title": "SEO for Tradespeople: Get Found in Your Area",
+   "title_options": "SEO for Tradespeople: Get Found in Your Area\nPlumbers, Electricians, Builders: Rank on Google\nHow Tradespeople Get Work From Google",
+   "thumbnail_ideas": "\"MORE JOBS FROM GOOGLE\" + van",
+   "hook": "\"If you're a tradesperson, you don't need to rank nationally. You need to be in the top three when someone within ten miles searches 'emergency plumber'. Here's how.\"",
+   "why_click": null,
+   "cta": "Free local SEO check",
+   "pillar": 3
+  },
+  {
+   "number": 20,
+   "title": "ChatGPT vs Claude vs Gemini vs Copilot for Business",
+   "title_options": "ChatGPT vs Claude vs Gemini vs Copilot for Business\nWhich AI Should Your Business Pay For?\nI Tested 4 AIs on Real Business Tasks",
+   "thumbnail_ideas": "4 logos, \"WHICH ONE?\"",
+   "hook": "\"I gave four AI assistants the same five real business tasks: a quote, a complaint, a policy, a spreadsheet and a job ad. One clear winner, one surprise, and one I wouldn't pay for.\"",
+   "why_click": "Comparison content is heavily searched.",
+   "cta": "10 prompts download",
+   "pillar": 1
+  }
+ ],
+ "calendar": [
+  {
+   "week": 1,
+   "ref": 1,
+   "label": "AI for Small Business: Where to Actually Start"
+  },
+  {
+   "week": 2,
+   "ref": 2,
+   "label": "Why Your Business Doesn't Show Up on Google Maps"
+  },
+  {
+   "week": 3,
+   "ref": 4,
+   "label": "Staff Are Pasting Data Into ChatGPT"
+  },
+  {
+   "week": 4,
+   "ref": 7,
+   "label": "Is Your Website Losing You Customers? 7-Point Check"
+  },
+  {
+   "week": 5,
+   "ref": 5,
+   "label": "10 ChatGPT Prompts for UK Business Owners"
+  },
+  {
+   "week": 6,
+   "ref": 13,
+   "label": "Fix It Live: Local SEO Makeover (Wirral business)"
+  },
+  {
+   "week": 7,
+   "ref": 8,
+   "label": "How Much Does a Website Cost in the UK?"
+  },
+  {
+   "week": 8,
+   "ref": 10,
+   "label": "How to Show Up in ChatGPT & Google AI Answers"
+  },
+  {
+   "week": 9,
+   "ref": 12,
+   "label": "5 Admin Jobs to Automate This Month"
+  },
+  {
+   "week": 10,
+   "ref": 3,
+   "label": "I Rebuilt a Local Website With AI: Before & After"
+  },
+  {
+   "week": 11,
+   "ref": 14,
+   "label": "Write an AI Policy in 20 Minutes"
+  },
+  {
+   "week": 12,
+   "ref": 33,
+   "label": "First \"AI for [Sector]\" episode (pick your best-converting sector)"
+  },
+  {
+   "week": 13,
+   "ref": 9,
+   "label": "Google Business Profile: Complete Setup Guide"
+  }
+ ],
+ "shorts": [
+  {
+   "number": 1,
+   "title": "Business vs personal AI account",
+   "hook": "Using free ChatGPT for work? Watch this.",
+   "length": "30 s",
+   "ending": "Bridge → full video",
+   "links_to": 1
+  },
+  {
+   "number": 2,
+   "title": "One question before buying AI",
+   "hook": "Ask this before paying for any AI tool.",
+   "length": "25 s",
+   "ending": "Loop: ends by repeating the question",
+   "links_to": 1
+  },
+  {
+   "number": 3,
+   "title": "3-rule AI policy",
+   "hook": "Your whole AI policy, in 3 rules.",
+   "length": "35 s",
+   "ending": "Bridge → template",
+   "links_to": 14
+  },
+  {
+   "number": 4,
+   "title": "Missing from Google Maps",
+   "hook": "Not on Google Maps? Check this setting first.",
+   "length": "30 s",
+   "ending": "Bridge → #2",
+   "links_to": 2
+  },
+  {
+   "number": 5,
+   "title": "Wrong GBP category",
+   "hook": "This one word is why you're not on Google Maps.",
+   "length": "25 s",
+   "ending": "Loop",
+   "links_to": 9
+  },
+  {
+   "number": 6,
+   "title": "5-second homepage test",
+   "hook": "Can a stranger tell what you do in 5 seconds?",
+   "length": "30 s",
+   "ending": "Loop: countdown restarts",
+   "links_to": 7
+  },
+  {
+   "number": 7,
+   "title": "Phone number not clickable",
+   "hook": "If your phone number isn't tappable, you're losing calls.",
+   "length": "20 s",
+   "ending": "Bridge → #7",
+   "links_to": 7
+  },
+  {
+   "number": 8,
+   "title": "Ask ChatGPT about your business",
+   "hook": "I asked ChatGPT who the best [trade] in Liverpool is…",
+   "length": "35 s",
+   "ending": "Bridge → #10",
+   "links_to": 10
+  },
+  {
+   "number": 9,
+   "title": "Review request timing",
+   "hook": "The best moment to ask for a Google review.",
+   "length": "25 s",
+   "ending": "Loop",
+   "links_to": 6
+  },
+  {
+   "number": 10,
+   "title": "Reply to a 1-star review with AI",
+   "hook": "Got a 1-star review? Don't reply yet.",
+   "length": "40 s",
+   "ending": "Bridge → templates",
+   "links_to": 6
+  },
+  {
+   "number": 11,
+   "title": "£500 vs £5,000 website",
+   "hook": "Why one website costs £500 and another £5,000.",
+   "length": "40 s",
+   "ending": "Bridge → #8",
+   "links_to": 8
+  },
+  {
+   "number": 12,
+   "title": "Staff pasting data",
+   "hook": "Someone in your team is doing this right now.",
+   "length": "30 s",
+   "ending": "Bridge → #4",
+   "links_to": 4
+  },
+  {
+   "number": 13,
+   "title": "Don't ban ChatGPT",
+   "hook": "Banning ChatGPT at work doesn't work. Do this instead.",
+   "length": "35 s",
+   "ending": "Bridge → #4",
+   "links_to": 4
+  },
+  {
+   "number": 14,
+   "title": "Automate invoice chasing",
+   "hook": "Stop chasing invoices by hand.",
+   "length": "30 s",
+   "ending": "Bridge → #12",
+   "links_to": 12
+  },
+  {
+   "number": 15,
+   "title": "Meeting notes on autopilot",
+   "hook": "Never type up meeting notes again.",
+   "length": "30 s",
+   "ending": "Loop",
+   "links_to": 12
+  },
+  {
+   "number": 16,
+   "title": "Quote in 2 minutes",
+   "hook": "Write a professional quote in 2 minutes with AI.",
+   "length": "45 s",
+   "ending": "Bridge → prompts",
+   "links_to": 5
+  },
+  {
+   "number": 17,
+   "title": "Job advert prompt",
+   "hook": "AI wrote this job ad in 20 seconds. Here's the prompt.",
+   "length": "35 s",
+   "ending": "Bridge → prompts",
+   "links_to": 5
+  },
+  {
+   "number": 18,
+   "title": "Complaint reply prompt",
+   "hook": "Use this prompt next time a customer complains.",
+   "length": "35 s",
+   "ending": "Bridge → prompts",
+   "links_to": 5
+  },
+  {
+   "number": 19,
+   "title": "Before/after website",
+   "hook": "Same business. Old website vs new website.",
+   "length": "20 s",
+   "ending": "Loop: flips back to before",
+   "links_to": 3
+  },
+  {
+   "number": 20,
+   "title": "When AI is NOT the answer",
+   "hook": "I told a client NOT to use AI. Here's why.",
+   "length": "35 s",
+   "ending": "Bridge → video",
+   "links_to": 50
+  },
+  {
+   "number": 21,
+   "title": "AI readiness: data mess",
+   "hook": "If your data's in 6 spreadsheets, AI won't save you.",
+   "length": "30 s",
+   "ending": "Bridge → checklist",
+   "links_to": 11
+  },
+  {
+   "number": 22,
+   "title": "\"Near me\" searches",
+   "hook": "How Google decides who's 'near me'.",
+   "length": "35 s",
+   "ending": "Bridge → #9",
+   "links_to": 9
+  },
+  {
+   "number": 23,
+   "title": "Local SEO for trades",
+   "hook": "Tradespeople: you only need to win 10 miles.",
+   "length": "30 s",
+   "ending": "Bridge → #19",
+   "links_to": 19
+  },
+  {
+   "number": 24,
+   "title": "Copilot reality check",
+   "hook": "Is Copilot worth £X a month for a small business?",
+   "length": "40 s",
+   "ending": "Bridge → video",
+   "links_to": 26
+  },
+  {
+   "number": 25,
+   "title": "AI vs AI test",
+   "hook": "Same task, 4 AIs. Which wrote the best quote?",
+   "length": "45 s",
+   "ending": "Bridge → #20",
+   "links_to": 20
+  },
+  {
+   "number": 26,
+   "title": "Website speed",
+   "hook": "Your website takes 6 seconds to load. Here's what that costs.",
+   "length": "30 s",
+   "ending": "Loop",
+   "links_to": 42
+  },
+  {
+   "number": 27,
+   "title": "Red flag consultant",
+   "hook": "If an AI consultant says this, walk away.",
+   "length": "25 s",
+   "ending": "Bridge → #16",
+   "links_to": 16
+  },
+  {
+   "number": 28,
+   "title": "Fix It Live teaser",
+   "hook": "This Wirral business was on page 2 of Google. Watch.",
+   "length": "40 s",
+   "ending": "Bridge → #13",
+   "links_to": 13
+  },
+  {
+   "number": 29,
+   "title": "Build vs buy",
+   "hook": "Don't build custom AI until you've tried this.",
+   "length": "30 s",
+   "ending": "Bridge → #15",
+   "links_to": 15
+  },
+  {
+   "number": 30,
+   "title": "AI myth",
+   "hook": "'AI will replace my staff.' Here's what actually happens.",
+   "length": "35 s",
+   "ending": "Loop",
+   "links_to": 100
+  }
+ ],
+ "script001": "# Script 001: AI for Small Business: Where to Actually Start (UK)\n\n*Output of prompt #5. This is the template for every future script.*\n\n| | |\n|---|---|\n| **Target length** | ~10 minutes (~1,400 spoken words) |\n| **Pillar** | 1. AI That Actually Helps |\n| **Search target** | \"AI for small business\", \"how to use AI in my business UK\" |\n| **Title** | AI for Small Business: Where to Actually Start (UK) |\n| **Thumbnail** | You pointing at step 1 of a staircase. Text: **START HERE** |\n| **CTA** | Free AI Readiness Checklist → wirral.ai |\n| **Next video (end screen)** | #4 Staff Are Pasting Data Into ChatGPT |\n| **Source material** | wirral.ai/insights/ai-for-small-business |\n\nKey: **[B-ROLL]** cutaway footage · **[TEXT]** on-screen text · **[SFX]** sound effect ·\n**[SCREEN]** screen recording · **[CUT]** jump cut / angle change\n\n---\n\n## 0:00 Hook (0–15 s)\n\n> Most small businesses start with AI the wrong way. They buy a tool, a couple of\n> people try it, and three months later nobody's using it.\n>\n> In the next ten minutes I'll show you the four-step way we start with every\n> client, and the one question to ask before you spend a single penny.\n\n**[TEXT]** \"4 steps · 1 question · £0 to start\"\n**[B-ROLL]** fast montage: ChatGPT, Copilot, a cluttered desktop of unused apps\n**[SFX]** soft whoosh into title card (1 s max, no long intro)\n\n## 0:15 Quick proof (15–40 s)\n\n> I'm [Name] from wirral.ai. We're an AI consultancy in the North West, and we've\n> helped more than forty organisations, from clinics and trades firms to hotels and\n> membership bodies, work out where AI actually fits.\n>\n> And honestly? About a third of the time the answer is \"not yet\" or \"not there\".\n> So this isn't a \"use AI for everything\" video. It's the opposite.\n\n**[B-ROLL]** real (permissioned) client work / wirral.ai portfolio scroll\n**[TEXT]** \"40+ organisations supported\"\n\n## 0:40 Setup / story (40 s–1:30)\n\n> Here's what usually happens. The owner reads that AI will save them hours. They\n> sign up to three tools. Someone uses ChatGPT to write a few social posts. Then\n> it all fizzles out, because nobody decided what problem they were actually\n> solving.\n>\n> So step one isn't a tool. It's a problem.\n\n**[CUT]** to close-up\n**[TEXT]** \"Problem first. Tool second.\"\n\n---\n\n## 1:30 Step 1: Pick ONE annoying, repetitive job (1:30–3:15)\n\n> Grab a pen. Write down the three jobs in your business that are: one, done every\n> week; two, mostly the same each time; and three, nobody enjoys.\n>\n> Things like answering the same customer questions, writing quotes, chasing\n> invoices, typing up meeting notes, writing job adverts.\n\n**[SCREEN]** simple 3-column table: Job / Hours per week / Same every time?\n\n> Now pick the one with the most hours. That's your first AI project. Not five.\n> One.\n>\n> Here's a real example. A practice we worked with was spending around six hours a\n> week replying to the same booking questions by email. That became the first\n> project. Nothing fancy.\n\n**[TEXT]** \"Most hours + most repetitive = start here\"\n**[SFX]** pen tick\n\n### Pattern interrupt (~2:45)\n> Quick test: if you can't explain the job to a new starter in two minutes, it's\n> not ready for AI either. Keep that in mind.\n\n**[CUT]** to wide shot, hold up two fingers\n\n## 3:15 Step 2: Use a safe tool you already have (3:15–5:00)\n\n> Before you buy anything, check what you're already paying for. If you're on\n> Microsoft 365 or Google Workspace, you may already have AI built in: Copilot or\n> Gemini.\n>\n> And here's the important bit for UK businesses: use a **business** account, not a\n> personal free one. Business plans generally don't use your data to train their\n> models, and they give you admin controls. With a free personal account, you have\n> much less control over where customer data goes.\n\n**[SCREEN]** show where to find Copilot in Outlook / Gemini in Gmail\n**[TEXT]** \"Business account ≠ personal account\"\n**[B-ROLL]** padlock icon over a document\n\n> Check the current terms for whichever tool you use. They change, and I'll put\n> links in the description.\n\n## 5:00 Mid-video teaser\n\n> Step four is the one almost everyone skips, and it's the reason most AI projects\n> quietly die. Stick around for that.\n\n**[TEXT]** \"Step 4 = the one everyone skips\"\n**[SFX]** short rising tone\n\n## 5:10 Step 3: Write three simple rules (5:10–6:45)\n\n> Before anyone starts, write three rules. One page, max.\n>\n> One: what data must **never** go into AI: customer health records, card details,\n> anything you'd be embarrassed to see leaked.\n> Two: a human checks everything before it goes to a customer.\n> Three: which tools are approved, and nothing else.\n\n**[SCREEN]** a one-page policy document with the three rules highlighted\n**[TEXT]** \"Never · Always check · Approved tools only\"\n\n> That's it. That's your first AI policy. We've got a free template, and I'll show\n> you where to get it at the end.\n\n### Pattern interrupt (~6:15)\n**[B-ROLL]** quick \"bad example\": someone pasting a spreadsheet of customer names\ninto a chatbot → red X **[SFX]** buzzer (light, not cheesy)\n\n## 6:45 Step 4: Measure it for 30 days (6:45–8:45)\n\n> Here's the step everyone skips. Measure it.\n>\n> Before you start, write down how long the job takes now. Six hours a week? Write\n> it down. Then run the AI version for thirty days and write down how long it takes\n> now, and whether the quality held up.\n\n**[SCREEN]** simple before/after table: \"Before: 6 hrs/wk → After: ? hrs/wk\"\n\n> If it saved time and quality held, roll it out and pick the next job. If it didn't,\n> stop. That's not failure, that's the system working. You've lost a month and\n> nothing else.\n>\n> The businesses that get real value from AI aren't the ones with the fanciest tools.\n> They're the ones that do this boring loop: pick a job, try it safely, measure, repeat.\n\n**[TEXT]** \"Pick → Try → Measure → Repeat\"\n**[B-ROLL]** loop animation\n\n## 8:45 The one question before you spend a penny (8:45–9:30)\n\n> And the question I promised at the start, before you pay for any AI tool or any\n> consultant, including us: **\"What will we stop doing, and how will we know?\"**\n>\n> If nobody can answer that, don't spend the money yet.\n\n**[CUT]** close-up, pause one beat\n**[TEXT]** \"What will we stop doing, and how will we know?\"\n\n## 9:30 Ending + CTA (9:30–10:00)\n\n> If you want to check whether your business is actually ready for this, we've put\n> together a free AI Readiness Checklist. Eight questions, takes five minutes. It's\n> linked in the description and the pinned comment.\n>\n> And one of the biggest risks I mentioned, staff pasting customer data into\n> ChatGPT, is probably already happening in your business. This video shows you\n> what to do about it.\n\n**[END SCREEN]** → Video #4 (Staff + ChatGPT) + subscribe button\n**[TEXT]** \"Free checklist → wirral.ai\"\n\n*(No \"thanks for watching\", no outro music. End on the recommendation.)*\n\n---\n\n## Drop-off risks and how the script fixes them\n\n| Moment | Why viewers might leave | Fix built into the script |\n|---|---|---|\n| 0–5 s | Looks like another generic AI video | Opens with a contrarian claim (\"most start wrong\"), no logo intro |\n| 0:15–0:40 | \"Who is this guy?\" credentials ramble | Kept to 25 s; credibility through honesty (\"a third of the time, not yet\") |\n| ~2:00 | Step 1 feels like homework | Concrete example (6 hrs/week of booking emails) + the \"new starter\" test |\n| ~3:30 | Talking-head fatigue | Switches to screen recording of real Copilot/Gemini |\n| ~5:00 | Midpoint slump | Explicit teaser for step 4 |\n| ~6:15 | Rules feel dry | Visual \"bad example\" + light SFX |\n| ~8:30 | Viewer thinks \"got it\" and leaves | Promised \"one question\" is still unpaid; payoff held until 8:45 |\n| End | Outro = exit | No outro; go straight to the next video recommendation |\n\n---\n\n## Shorts to cut from this video\n\n1. **\"Business account ≠ personal account\"** (3:15–4:10) → hook: \"Using free ChatGPT for work? Watch this.\"\n2. **\"The one question before buying AI\"** (8:45–9:30) → hook: \"Ask this before paying for any AI tool.\"\n3. **\"3-rule AI policy\"** (5:10–6:15) → hook: \"Your whole AI policy, in 3 rules.\"\n",
+ "leadMagnets": [
+  {
+   "name": "AI Readiness Checklist",
+   "format": "1-page PDF with score box",
+   "status": "building",
+   "description": "8 questions, 5 minutes. Built from wirral.ai/insights/ai-readiness-checklist.",
+   "cta_line": "Free AI Readiness Checklist: eight questions, five minutes. First link in the description.",
+   "url": "https://www.wirral.ai/insights/ai-readiness-checklist"
+  },
+  {
+   "name": "Website & Google Check",
+   "format": "Done-for-you: 3 fixes sent back",
+   "status": "planned",
+   "description": "Viewer sends website or Google Business Profile; we reply within 2 working days with 3 specific fixes. Cap ~10/week.",
+   "cta_line": "Send us your website on WhatsApp and we'll send back three fixes. Free, no sales call.",
+   "url": "https://wa.me/447368349702"
+  },
+  {
+   "name": "One-Page AI Policy Template",
+   "format": "Editable Google Doc / Word",
+   "status": "planned",
+   "description": "Never-share data list, human-check rule, approved tools, who to ask.",
+   "cta_line": "Download our one-page AI policy template free. Link's in the description.",
+   "url": "https://www.wirral.ai/insights/ai-policy-uk-smes"
+  },
+  {
+   "name": "10 AI Prompts for UK Business Owners",
+   "format": "1–2 page PDF",
+   "status": "planned",
+   "description": "Quotes, complaints, reviews, job ads, policies, content plans. Full text in the playbook.",
+   "cta_line": "All ten prompts are in a free one-page download. First link in the description.",
+   "url": null
+  },
+  {
+   "name": "Google Business Profile Checklist",
+   "format": "1-page checklist",
+   "status": "planned",
+   "description": "Categories, services, description, photos, reviews, posts, Q&A, hours, NAP consistency.",
+   "cta_line": "Grab the free Google Business Profile checklist, linked in the description.",
+   "url": null
+  }
+ ]
+}
